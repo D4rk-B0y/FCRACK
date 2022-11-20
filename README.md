@@ -7,12 +7,6 @@
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
-> GITHUB STATES :
-
-<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=D4RK-B0Y&theme=merko)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D4rk-B0y=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
@@ -63,4 +57,4 @@
 
 # References
 
-- https://gist.github.com/peter279k/daf1cc84ecfecf4d5c962b5637426406
+- https://www.facebook.com/bap.dakbi
